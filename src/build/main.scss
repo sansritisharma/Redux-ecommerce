@@ -1,0 +1,58 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+/*----------Utility Classes---------------------*/
+button {
+    display: flex;
+    column-gap: 10px;
+}
+
+/*--------Header Starts Here--------*/
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+/*------------------Header Profile-----------------*/
+.header__profile {
+    background-color: #2D323D;
+    font-size: 0.75em;
+    padding: 14px 60px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header__profile > button {
+    color: #F2F2F2;
+    border-right: 1px solid  #F2F2F2;
+    padding: 0 20px;
+}
+
+/*------------------Header Nav-----------------*/
+
+.header__Nav {
+    color: #463F5F;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    column-gap: 133px;
+    height: 88px;
+}
+
+.header__Nav_logo {
+    font-weight: bold;
+    border: black 2px solid;
+    padding: 8px 25px;
+    font-size: 20px;
+}
+
+.header__Nav_list {
+    font-size:  0.875em;
+    display: flex;
+    column-gap: 65px;
+    font-weight: 600;
+}
+
+
+

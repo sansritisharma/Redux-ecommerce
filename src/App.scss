@@ -1,0 +1,25 @@
+@import './scss/variables.scss';
+@import './scss/global.scss';
+@import './scss/mixins.scss';
+@import './scss/mediaquery.scss';
+@import './atoms/button/button.scss';
+@import './atoms/accordian/accordian.scss';
+@import './atoms/icon/icon.scss';
+@import './molecules/headerProfile/headerProfile.scss';
+@import './molecules/headerNav/headerNav.scss';
+@import './molecules/filters/filters.scss';
+@import './molecules/compareCard/compareCard.scss';
+@import './organism/main/main.scss';
+@import './organism/footer/footer.scss';
+@import './molecules/footerTop/footertop.scss';
+@import './molecules/footerMiddle/footermiddle.scss';
+@import './molecules/footerBottom/footerbottom.scss';
+@import './molecules/prodCard/card.scss';
+@import './pages/cart/cart.scss';
+
+@import 'react-multi-carousel/lib/styles.css';
+
+
+
+
+

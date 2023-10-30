@@ -1,0 +1,29 @@
+// Color vars
+$navy-blue: #2D323D;
+$ash: #F2F2F2;
+$white: #FFFFFF;
+$grey: #463F5F;
+$black: #1D1D1D;
+$cement: #B7BDC1;
+$rock: #999999;
+$shadow: #463F5F1A;
+$pink: #FF3465;
+
+/*Map -> 'key':value (pairs) for font-sizes*/
+
+$font-sizes : (
+    "fs-12": 0.75em,
+    "fs-13" : 0.8125em,
+    "fs-14": 0.875em,
+    "fs-16": 1em,
+    "fs-20": 1.25em,
+    "fs-28": 1.75em,
+    "fs-32": 2em,
+);
+
+// Map for font weights utility 
+$font-weights : (
+    "regular":400, 
+    "bold": 900,
+    "semi": 600,
+);
